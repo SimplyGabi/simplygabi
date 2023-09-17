@@ -93,7 +93,7 @@ body::before {
     position: relative;
     top: 0;
     margin: 0 auto;
-    background: url("https://assets.codepen.io/2273448/butterfly-body.png");
+    background: url("https://xatimg.com/image/Phz69MzQ1poP.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -114,13 +114,13 @@ body::before {
     animation-delay: 0;
 }
 .butterflys-flutter::before {
-    background-image: url("https://assets.codepen.io/2273448/butterfly-wing.png");
+    background-image: url("https://xatimg.com/image/A7PhCIi4BcGZ.png");
     transform-origin: 0% 50%;
     animation: flutter-r 0.3s infinite ease-out;
     left: 55%;
 }
 .butterflys-flutter::after {
-    background-image: url("https://assets.codepen.io/2273448/butterfly-wing-l.png");
+    background-image: url("https://xatimg.com/image/STql2KAwN8H2.png");
     transform-origin: 100% 50%;
     animation: flutter-l 0.3s infinite ease-out;
     right: 55%;
